@@ -6,6 +6,7 @@
 pip install --upgrade openai numpy faiss-cpu pymupdf beautifulsoup4 pillow customtkinter python-docx requests
 
 #파일 위치(필수)
+
 ```
 project_root/
 ├── CollabAI_finally.py      # 메인 실행 파일
