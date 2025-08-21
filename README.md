@@ -15,13 +15,7 @@ project_root/
 ├── QnA.txt                  # (옵션) 텍스트 데이터
 ├── .env                     # (필수) 환경변수 파일 (GitHub에는 업로드 X)
 └── assets/                  # (옵션) 사이드바 아이콘 모음
-    ├── send.png
-    ├── settings.png
-    ├── new_chat.png
-    ├── refresh.png
-    ├── clear.png
-    ├── attach.png
-    └── history.png
+
 ```
 # 환경변수 설정
 .env.example 참고
