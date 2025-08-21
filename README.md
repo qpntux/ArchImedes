@@ -13,3 +13,5 @@ project_root/
 ├─ 2025 학사제도 안내-1.pdf ← (옵션: 샘플 PDF)
 ├─ QnA.txt                 ← (옵션: 텍스트 데이터)
 └─ assets/                 ← (옵션: 사이드바 아이콘)
+# 환경변수 설정
+.env.example 참고
