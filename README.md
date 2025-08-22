@@ -11,7 +11,7 @@
 
 ![샘플 화면](https://github.com/robot7171-a11y/ArichImedes-by-Team_CollabAI/blob/main/sample3.png?raw=true)
 
-# 프로젝트 소개 PPT(클릭!)
+# 소개 PPT(클릭!)
 [![프로젝트 소개 PPT](https://github.com/qpntux/ArchImedes/blob/main/intro.png)](https://www.miricanvas.com/v/14zxu3h)
 # 파이선 패키지 설치(필수)
 pip install --upgrade openai numpy faiss-cpu pymupdf beautifulsoup4 pillow customtkinter python-docx requests
