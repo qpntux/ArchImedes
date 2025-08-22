@@ -39,5 +39,5 @@ project_root/
 └── assets/                  # (옵션) 사이드바 아이콘 모음
 
 ```
-# 환경변수 설정
+# 환경변수 설정(필수)
 .env.example 참고
