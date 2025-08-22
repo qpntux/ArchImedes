@@ -26,7 +26,7 @@ OpenAI API + RAG 기법을 활용하여 「2025 학사제도 안내」, 학부 F
 # 파이선 패키지 설치(필수)
 pip install --upgrade openai numpy faiss-cpu pymupdf beautifulsoup4 pillow customtkinter python-docx requests
 
-# 파일 위치(필수)
+# 파일 체계(필수)
 
 ```
 project_root/
